@@ -18,7 +18,11 @@ The programming language used is Dart using the Flutter framework.
 
 # Useful Websites
 
-My main source of research was the official flutter website.
+My main source of research was the official Flutter website.
 
 * [Flutter Documentation](https://docs.flutter.dev)
+
+# Next Steps
+
+The next step in this project is to connect the app to a database or local storage to be able to save the projects.
 
