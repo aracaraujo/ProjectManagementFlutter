@@ -1,16 +1,24 @@
-# task_app
+# Project Management Flutter
 
-A new Flutter project.
+# Overview
 
-## Getting Started
+This is a simple app that I built to learn Flutter.
 
-This project is a starting point for a Flutter application.
+The app allows users to create projects and add tasks to each project. The purpose is to help people to manage their time.
 
-A few resources to get you started if this is your first Flutter project:
+<!-- {Provide a link to your YouTube demonstration.  It should be a one-minute demo of the software running and a walkthrough of the code.} -->
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- [Software Demo Video](http://youtube.link.goes.here) -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Development Environment
+
+I developed this app using IntelliJ IDEA.
+
+The programming language used is Dart using the Flutter framework.
+
+# Useful Websites
+
+My main source of research was the official flutter website.
+
+* [Flutter Documentation](https://docs.flutter.dev)
+
